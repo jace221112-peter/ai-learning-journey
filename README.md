@@ -5,16 +5,11 @@
 记录我的 AI Agent 学习与实战
 
 
+## Learning Journey
+- Day 2 – Rule-Based Agent → [`learning_journey/Day2_RuleBased_Agent/`](./learning_journey/Day2_RuleBased_Agent/)
+- Day 3 – Action Chain Agent → [`learning_journey/Day3_ActionChain_Agent/`](./learning_journey/Day3_ActionChain_Agent/)
+- Day 4 – Planner → Executor → Finalizer → [`learning_journey/Day4_Planner_Agent/`](./learning_journey/Day4_Planner_Agent/)
 
-\## 学习记录导航
-
-\- \[Day 2：规则驱动的入门 Agent（RAG/意图识别）](learning\_journey/Day2\_RuleBased\_Agent/Day2\_AI\_Agent\_Learning\_Record.md)
-
-\- \[Day 3：出行助手 —— 决策型 Agent（DeepSeek + 天气工具）](learning\_journey/Day3\_ActionChain\_Agent/Day3\_AI\_Agent\_Learning\_Record.md)
-
-
-
-> 后续会持续补充 Day 4/Day 5…
 
 
 
