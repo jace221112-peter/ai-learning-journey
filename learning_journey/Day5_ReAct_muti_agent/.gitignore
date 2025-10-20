@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+*.env
+
+# Output files
+final_ai_news.txt

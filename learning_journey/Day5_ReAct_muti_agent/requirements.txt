@@ -1,0 +1,5 @@
+langchain
+requests
+feedparser
+python-dotenv
+openai   # 用于调用DeepSeek接口
